@@ -1,0 +1,5 @@
+body { background: #1a1a1a; color: #fff; font-family: Arial; }
+header { background: #ff4500; padding: 10px; display: flex; justify-content: space-between; }
+.produto { background: #333; margin: 2%; padding: 5%; text-align: center; width: 50%; float: left; }
+button { background: #ff4500; color: #fff; border: none; padding: 5px 10px; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; } th, td { border: 1px solid #fff; padding: 8px; }
